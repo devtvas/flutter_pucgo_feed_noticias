@@ -10,7 +10,7 @@ Desafio 4 - Considerando o leiaute do post da notícia da imagem 1* e os widgets
 
 ### Resultado 
 
-<img src="resultado4.png" height="500em" />
+<img src="assets/resultado4.png" height="500em" />
 
 <h2>Detalhes de Configuracao</h2>
 
