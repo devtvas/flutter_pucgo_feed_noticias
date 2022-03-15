@@ -1,16 +1,23 @@
-# flutter_pucgo_post_noticias
+<h1>Resolucao do desafio academico da universidade PUC-GO.</h1>
 
-A new Flutter project.
+<h2>Detalhe do desafio</h2>
 
-## Getting Started
+Desafio 4 - Considerando o leiaute do post da notícia da imagem 1* e os widgets necessários para sua implementação, você consegue identificar cada widget utilizado na construção do leiaute e de que modo seria a sua representação como uma árvore de widgets?
 
-This project is a starting point for a Flutter application.
+### Desafio 
 
-A few resources to get you started if this is your first Flutter project:
+<img src="assets/desafio4.png" height="500em" /> 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Resultado 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="resultado4.png" height="500em" />
+
+<h2>Detalhes de Configuracao</h2>
+
+  * Flutter: versao 2.2.3
+  * Dart: versao 2.2.0
+  * Design Pattern: MVC
+  * Dependencias Utilizadas: --
+  
+## Aluno/Desenvolvedor
+@devtvas
